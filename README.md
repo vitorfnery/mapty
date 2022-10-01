@@ -1,19 +1,33 @@
-# Bankist Site 💻💸
+# Mapty 🗺️ 🗺️ 🗺️
 
 ![preview](./.github/preview.gif)
 
 > # Description / Descrição
 
-Bankist is a minimal website for a bank. A minimal design with responsiveness and soothing design along with functionality to sign into account for further activities. Simply click on login and user credential provided on screen to use Bankist web app. In the future the functionality ro create account from website is going to be added.
+Mapty is a vanilla JavaScript application that interacts with the Leaflet library and display Map. ts structure is built with OOP using classes and objects.
 
-[🔗 Click here to access / Clique aqui para acessar](https://bankist-site-vitorfnery.netlify.app/)
+[🔗 Click here to access / Clique aqui para acessar](https://mapty-vitorfnery.netlify.app/)
+
+## ✅ Features
+
+- Displaying Map using Leaflet library
+
+- Position automatically obtained by the browser using Geolocation API
+
+- Create or remove workouts
+
+- Show workouts on map
+
+- Move to marker when workout is clicked
+
+- Saving workouts to localstorage
 
 ## 🛠️ Technologies / Tecnologias
 
 - JavaScript
 - HTML
 - CSS
-- Git e Github
+- Git and Github
 
 ## 📣 Contact / Contato
 
